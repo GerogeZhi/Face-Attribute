@@ -18,16 +18,16 @@ AttrListGen.py
 dataloadercelebA.py
 
 ### Model Training  
-TrainAttrPreRes18V0.py
-TrainAttrPreV0.py
+TrainAttrPreRes18V0.py  
+TrainAttrPreV0.py  
 
 ### Models  
-AttrPreModelRes18_256V0.py
-AttrPreModelRes34_256V0.py
+AttrPreModelRes18_256V0.py  
+AttrPreModelRes34_256V0.py  
 
 ### Model evaluation  
-AttrEvaRes18_256V0.py
-AttrEvaRes34_256V0.py
+AttrEvaRes18_256V0.py  
+AttrEvaRes34_256V0.py  
 
 ### Results  
 Focal Loss:  
