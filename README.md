@@ -3,18 +3,18 @@ Six face attributes (Attractive, EyeGlasses, Male, MouthOpen, Smiling, Young) pr
 
 PyTorch implementation. Trained using celebA dataset.
 
-Dependencies
-Python 3.6+ (Anaconda)
-PyTorch-0.2.0 +
-scipy, numpy, sklearn etc.
-OpenCV3 (Python)
+Dependencies  
+Python 3.6+ (Anaconda)  
+PyTorch-0.2.0 +  
+scipy, numpy, sklearn etc.  
+OpenCV3 (Python)  
 Tested on Ubuntu 16.04 LTS, Python 3.6 (Anaconda), PyTorch-0.4.0, CUDA 9.1, cuDNN 7.0
+  
+Usage  
+Data Preprocessing  
+detMTCNN_celebA.py  
 
-Usage
-Data Preprocessing
-detMTCNN_celebA.py
-
-AttrListGen.py
+AttrListGen.py  
 
 Data loader
 dataloadercelebA.py
