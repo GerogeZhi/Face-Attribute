@@ -3,7 +3,7 @@
 
 # import _init_paths
 import os, sys
-sys.path.append("/home/miaoqianwen/caffe/python")
+sys.path.append("/home/zhiying/pytorch/python")
 import caffe
 import cv2
 import numpy as np
